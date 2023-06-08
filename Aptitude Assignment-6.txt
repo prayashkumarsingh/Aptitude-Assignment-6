@@ -1,0 +1,156 @@
+Q1-ans
+
+
+
+The ratio of the rates of working of A and B is 4/5 : 1 in 3/5 : 1 = 4:3.
+
+Therefore, A's 1 day's work = (1/12) * (4/7) = 1/21.
+
+Hence, A alone can complete the work in 21 days.
+
+
+
+
+Q2-ans
+
+
+
+Let 1 man does m work in 1 hour, 1 woman does w work in 1 hour and 1 child does c work in 1 hour.
+
+Then, 1m + 3w + 4c = 1/96
+2m + 8c = 1/80
+2m + 3w = 1/120
+
+Solving these equations, we get m = 1/96, w = 2/288 and c = 1/288.
+
+Therefore, 10 men and 5 women can finish the work in (96 * 288)/(10 * 1 + 5 * 2) = 36 hours.
+
+
+
+
+Q3-ans
+
+
+
+Let's assume the original revenue collection is represented by R.
+
+The sales of cinema tickets increase by 57 1/7%:
+Increase in sales = (57 1/7/100) * R
+
+The price of tickets increases by 16 2/3%:
+Increase in ticket price = (16 2/3/100) * R
+
+Now, let's calculate the new revenue collection:
+
+New revenue collection = Original revenue collection + Increase in sales + Increase in ticket price
+New revenue collection = R + (57 1/7/100) * R + (16 2/3/100) * R
+
+Simplifying the expression:
+
+New revenue collection = R * (1 + 57 1/7/100 + 16 2/3/100)
+New revenue collection = R * (1 + 57/7 * 1/100 + 16/3 * 1/100)
+
+To find the percentage increase in revenue collection, we need to calculate the percentage difference between the new revenue collection and the original revenue collection:
+
+Percentage increase in revenue collection = ((New revenue collection - Original revenue collection) / Original revenue collection) * 100
+
+Substituting the values:
+
+Percentage increase in revenue collection = ((R * (1 + 57/7 * 1/100 + 16/3 * 1/100) - R) / R) * 100
+Percentage increase in revenue collection = ((R * (1 + (57/7 + 16/3) * 1/100) - R) / R) * 100
+Percentage increase in revenue collection = ((R * (1 + (813/21) * 1/100) - R) / R) * 100
+
+Simplifying the expression:
+
+Percentage increase in revenue collection = ((R * (1 + 813/2100) - R) / R) * 100
+Percentage increase in revenue collection = ((R * (2913/2100) - R) / R) * 100
+
+Converting the fraction to a decimal:
+
+Percentage increase in revenue collection = ((R * 1.387142857 - R) / R) * 100
+
+Simplifying further:
+
+Percentage increase in revenue collection = (0.387142857 * R / R) * 100
+Percentage increase in revenue collection = 0.387142857 * 100
+Percentage increase in revenue collection = 38.7142857
+
+Therefore, the percentage increase in revenue collection is approximately 38.71%.
+
+
+
+Q4-ans
+
+
+
+
+Let's calculate the total amount of food available in the garrison:
+
+Total amount of food = 1600 soldiers * 900 grams/soldier * 60 days
+Total amount of food = 86400000 grams
+
+After 40 days, 400 soldiers left the camp, so we need to adjust the total amount of food accordingly:
+
+Remaining soldiers = 1600 soldiers - 400 soldiers
+Remaining soldiers = 1200 soldiers
+
+Now, let's calculate the new amount of food required per day for the remaining soldiers:
+
+New food consumption per day = 1200 soldiers * 1000 grams/soldier
+New food consumption per day = 1200000 grams
+
+To find out how long the food will last for the remaining soldiers, we need to divide the total amount of food available by the new food consumption per day:
+
+Number of days = Total amount of food / New food consumption per day
+Number of days = 86400000 grams / 1200000 grams/day
+Number of days = 72 days
+
+Therefore, the food will last for the remaining soldiers for approximately 72 days.
+
+
+
+
+Q5-ans
+
+
+
+
+Let's assume the cost price of the bicycle is represented by CP.
+
+According to the given information, the dealer sold the bicycle at a profit of 10%. This means the selling price (SP) is 110% of the cost price.
+
+Profit = SP - CP
+10% of CP = SP - CP
+SP = CP + 0.1CP
+SP = 1.1CP
+
+Now, let's consider the second scenario where the dealer buys the bicycle at 10% less price and sells it at a price Rs. 60 more, resulting in a 25% gain.
+
+If he buys the bicycle at 10% less price, the new cost price would be 90% of the original cost price:
+
+New CP = 0.9CP
+
+The selling price in this scenario is Rs. 60 more than the original selling price:
+
+New SP = SP + Rs. 60
+New SP = 1.1CP + Rs. 60
+
+According to the given information, the dealer gains 25% in this scenario:
+
+Profit = New SP - New CP
+25% of New CP = New SP - New CP
+New SP = 1.25 New CP
+
+Substituting the values:
+
+1.1CP + Rs. 60 = 1.25(0.9CP)
+
+Simplifying the equation:
+
+1.1CP + Rs. 60 = 1.125CP
+Rs. 60 = 1.125CP - 1.1CP
+Rs. 60 = 0.025CP
+CP = Rs. 60 / 0.025
+CP = Rs. 2400
+
+Therefore, the cost price of the bicycle was Rs. 2400.
